@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Карта сайта для Яндекс.Вебмастера и Google Search Console.
+  ВАЖНО: после покупки домена замените адрес во всех ссылках ниже,
+  а также в canonical и Open Graph на страницах.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://tokerjum-stack.github.io/tatyana-cosmetolog/</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+</urlset>
